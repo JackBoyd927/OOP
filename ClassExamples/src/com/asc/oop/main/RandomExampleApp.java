@@ -20,7 +20,7 @@ public class RandomExampleApp {
 		fName = inpt.substring(0,4);
 		System.out.println("First name is " + fName);
 		
-		
+		System.out.println("new output xd");
 	}
 
 }
